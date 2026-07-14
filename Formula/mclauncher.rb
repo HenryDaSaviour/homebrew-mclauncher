@@ -3,8 +3,8 @@ class Mclauncher < Formula
 
   desc "Terminal-only Minecraft launcher: Microsoft-authenticated, multi-instance, no launcher GUI"
   homepage "https://github.com/HenryDaSaviour/mclauncher"
-  url "https://github.com/HenryDaSaviour/mclauncher/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d124f1a7fe62301eb1a402209604f40c081ed09fde08ca8f2a57c87e9b7157ce"
+  url "https://github.com/HenryDaSaviour/mclauncher/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "d8631be0a5ecca9e02b27b0020d60d28ab9c593a33509af49d43ce94e635edfc"
   license "MIT"
 
   depends_on "python@3.12"
